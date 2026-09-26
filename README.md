@@ -11,6 +11,7 @@
 ![Redux Toolkit](https://img.shields.io/badge/-Redux_Toolkit-764ABC?style=flat&logo=redux&logoColor=white)
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)
 ![Express](https://img.shields.io/badge/-Express-000000?style=flat&logo=express&logoColor=white)
+![NestJS](https://img.shields.io/badge/-NestJS-E0234E?style=flat&logo=nestjs&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)
@@ -24,17 +25,17 @@
 | Проект | Стек | Описание |
 |--------|------|----------|
 | [Stellar Burgers](https://github.com/Tolpil/stellar-burgers) | React, Redux Toolkit, TS, Cypress, Jest | Космическая бургерная — SPA с JWT, WebSocket, E2E-тестами |
-| [SkillSwap](https://github.com/Tolpil/SkillSwap) | React, TS, REST API, CI/CD | Платформа для обмена навыками с production-деплоем |
+| [SkillSwap](https://github.com/Tolpil/SkillSwap_46_2) | NestJS, TS, PostgreSQL, React | Командный проект: платформа обмена навыками |
 | [Blog Customizer](https://github.com/Tolpil/blog-customizer) | TypeScript, Vite | Настройка параметров статьи в реальном времени |
 | [Sales Bonus](https://github.com/Tolpil/sales-bonus) | JavaScript | Расчёт бонусов продавцов |
 | [Webpack React](https://github.com/Tolpil/webpack-react) | Webpack, React, Babel | Настройка сборки с нуля |
-| [Веб-ларек](https://github.com/Tolpil/weblarek) | HTML, SCSS, TS, Vite | Проектная работа, БЭМ |
+| [Веб-ларек](https://github.com/Tolpil/weblarek) | HTML, SCSS, TS, Vite, Express | Проектная работа, БЭМ |
 
 ---
 
 ### 🎓 Образование
 
-- **Яндекс.Практикум** — «Fullstack-разработчик плюс» (2025 — н.в.)
+- **Яндекс.Практикум** — «Fullstack-разработчик плюс» (2025 — 2026, завершён; расширенная версия — в процессе)
 - **Skillbox** — C#-разработчик (не окончен)
 - **Братский Государственный Университет** — Инженер, Автоматизация (2014)
 
